@@ -11,4 +11,5 @@ Use this sample when creating a simple pipeline in AWS CodePipeline while follow
 # Git init  >> initialise git repo
 # Git add . >> used after making change to a file, this will also stage the file for commit
 # Git commit >> commit the code
-# Git push remote origin >> push file to Github
+# Git push origin master >> push file to Github
+# https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
