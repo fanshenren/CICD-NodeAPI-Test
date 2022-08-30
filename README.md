@@ -3,3 +3,4 @@ Use this sample when creating a simple pipeline in AWS CodePipeline while follow
 
 
 # I've created this as a test
+# The purpose of this one is to test CICD in AWS
