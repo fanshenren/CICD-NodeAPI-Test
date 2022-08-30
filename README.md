@@ -5,3 +5,10 @@ Use this sample when creating a simple pipeline in AWS CodePipeline while follow
 # I've created this as a test
 # The purpose of this one is to test CICD in AWS
 # This is to test terminal script
+
+# git config --global user.email “[valid-email]”
+# git config --global user.name “[firstname lastname]”
+# Git init  >> initialise git repo
+# Git add . >> used after making change to a file, this will also stage the file for commit
+# Git commit >> commit the code
+# Git push remote origin >> push file to Github
