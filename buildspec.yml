@@ -4,12 +4,10 @@ phases:
  install:
     runtime-versions:
       nodejs: 12
-
   pre-build:
     commands:
       - echo Installing dependencies
       - npm install
-
   build:
     commands:
       - echo Running tests
