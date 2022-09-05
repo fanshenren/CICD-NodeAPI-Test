@@ -13,3 +13,5 @@ Use this sample when creating a simple pipeline in AWS CodePipeline while follow
 # Git commit >> commit the code
 # Git push origin master >> push file to Github
 # https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
+# git remote set-url origin https://github.com/fanshenren/sfguide-terraform-sample.git (Use HTTPs over SSH connection)
+#
