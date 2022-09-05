@@ -1,4 +1,5 @@
-FROM node:latest
+ARG REPO = 356370655928.dkr.ecr.ap-southeast-2.amazonaws.com
+FROM ${REPO}/node:latest
 
 WORKDIR /usr/src/app
 
